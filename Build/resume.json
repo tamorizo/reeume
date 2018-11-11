@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Resume Game",
+"dataUrl": "resume.data.unityweb",
+"wasmCodeUrl": "resume.wasm.code.unityweb",
+"wasmFrameworkUrl": "resume.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
